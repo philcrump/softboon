@@ -13,7 +13,7 @@ Small PCB designed for retrofit into an existing project.
   <img src="/img/assembled_softboon-r1.png" width="40%" />
 </p>
 
-Schematic: [images/schematic_softboon-r1.pdf](images/schematic_softboon-r1.pdf)
+Schematic: [img/schematic_softboon-r1.pdf](img/schematic_softboon-r1.pdf)
 
 Dual voltage regulators allow use of 7-35V on input (Boondocker is 10-30V).
 
