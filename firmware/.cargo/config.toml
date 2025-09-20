@@ -1,0 +1,9 @@
+[target.'cfg(all(target_arch = "arm", target_os = "none"))']
+# Available chip targets: `probe-rs chip list`
+runner = "probe-rs run --chip STM32F030F4Px"
+
+[build]
+target = "thumbv6m-none-eabi"        # Cortex-M0 and Cortex-M0+
+
+[env]
+DEFMT_LOG = "debug"
